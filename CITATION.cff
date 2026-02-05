@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Agent Constitution: A Constitutional Multi-Agent Governance System"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: Jiang
+    given-names: Jiaping
+version: 1.0.0
+date-released: 2026-02-05
+url: "https://github.com/jabing/agent-constitution"
+abstract: >
+  Agent Constitution defines a constitutional, role-separated,
+  failure-aware multi-agent governance system.
+  It prioritizes explicit authority boundaries,
+  verifiable outcomes, and legitimate termination
+  over autonomous completion.
+license: Apache-2.0
