@@ -1,0 +1,16 @@
+git add .
+git commit -m "Add governance, agents, and docs"
+git push
+
+
+git push
+确认 governance/AGENT_CONSTITUTION.md 和 CONDUCTOR.md 都在 GitHub 上
+如何创建 Release v1.0 — Constitutional Freeze 了。
+
+git submodule add https://github.com/jabing/agent-constitution.git vendor/agent-constitution
+
+
+在 test2/ 下执行：
+
+git submodule add https://github.com/jabing/agent-constitution.git vendor/agent-constitution
+git submodule update --init --recursive
